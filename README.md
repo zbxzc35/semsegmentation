@@ -12,7 +12,6 @@ This repository contains implementations of popular semantic segmentation algori
 ## Requirement
 1. PyTorch 0.2.0
 2. TensorBoard for PyTorch. [Here](https://github.com/lanpa/tensorboard-pytorch)  to install
-3. Some other libraries (find what you miss when running the code :-P)
 
 ## Preparation
 1. Go to *models* directory and set the path of pretrained models in *config.py*
